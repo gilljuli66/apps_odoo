@@ -91,7 +91,7 @@
 	sequence="1"/>
 <menuitem name="Sites Détaillés" id="sites_sitesD_menu"
 	parent="sites_sites_menu"
-	action="action_sites_sites"
+	action="action_sitesD_sites"
 	/>
 <menuitem name="Immatriculation" id="sites_immat_menu"
 	parent="sites_root_menu"
