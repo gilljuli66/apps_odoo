@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
 	<record model="ir.actions.act_window"
-	id="action_sites_sites">
-		<field name="name">Sites</field>
+	id="action_sitesD_sites">
+		<field name="name">Sites Détaillés</field>
 		<field name="res_model">sites.sites</field>
 		<field name="view_mode">tree,form</field>
 	</record>
