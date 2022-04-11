@@ -88,8 +88,11 @@
 
 <menuitem name="Sites" id="sites_sites_menu"
 	parent="sites_root_menu"
-	action="action_sites_sites"
 	sequence="1"/>
+<menuitem name="Sites" id="sites_sites_menu"
+	parent="sites_sites_menu"
+	action="action_sites_sites"
+	/>
 <menuitem name="Immatriculation" id="sites_immat_menu"
 	parent="sites_root_menu"
 	action="action_immat_sites"
