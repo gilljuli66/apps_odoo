@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>custom_addons</name>
+=======
+	<name>apps_odoo</name>
+>>>>>>> branch '15.0' of http://git@github.com/gilljuli66/custom_addons.git
 	<comment></comment>
 	<projects>
 	</projects>
